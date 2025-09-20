@@ -171,9 +171,3 @@ project/
 ├── architecture_diagram.pdf # High-level system overview
 └── README.md                # (You are here)
 ```
-
----
-
-## Citation
-
-If you use this project for research, please cite appropriately.
